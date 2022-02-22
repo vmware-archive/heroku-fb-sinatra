@@ -1,3 +1,6 @@
+# This repository is no longer actively maintained by VMware, Inc.
+
+
 Facebook/Heroku sample app -- Ruby
 ==================================
 
